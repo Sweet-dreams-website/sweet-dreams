@@ -1,5 +1,5 @@
 # Sweet dreams
-Gamec.store is an ecommerce website that allows admins to put their baby clothes up for sale and user buy them.
+Sweet dreams is an e-commerce website that allows admins to put their baby clothes up for sale and user buy them.
 
 ## Tech used 
 we are using HTML, CSS, PHP
